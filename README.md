@@ -7,4 +7,3 @@ C# .Net Console Uygulaması üzerinden Amazon Sqs İşlem Örnekleri.
  
 App.config içerisinde gerekli değişiklikleri yapıp deneyebilirsiniz.
 
-Yazısı : https://amirzayildirim.com/?p=227 
